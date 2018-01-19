@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(214, 165, 79);
+}
+
+.top {
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+.burger-well {
+    padding: 10px;
+    height: 50px;
+    width: 95%;
+    margin: 5px;
+    background-color: rgb(145, 129, 129);
+    color: white;
+    position: relative;
+}
+
+p {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.change-devour {
+    position: absolute;
+    right: 10px;
+    top: 25px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.burger-not-eat {
+    width: 45%;
+    float: left;
+    margin-bottom: 25px;
+}
+
+#burger-not-eat-title {
+    text-align: center;
+}
+
+.burger-eat {
+    width: 45%;
+    float: right;
+}
+
+#burger-eat-title {
+    text-align:center;
+}
+
+.add-burger {
+    margin-top: 50px;
+    text-align: center;
+    clear: both;
+}
+
+#burger {
+    height: 50px;
+    width: 400px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#burgerBtn {
+    margin-top: 10px;
+    height: 40px;
+    width: 200px;
+    font-size: 18px;
+    background-color: rgb(145, 129, 129);
+    color: white;
+}
